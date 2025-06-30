@@ -284,8 +284,6 @@ Engineer in catering establishments - Bachelor
 Frontend-Developer Course
 * **RS School**
     * Pre-School 2023
-    * Stage1 2023
-
 ___
 
 ### Experience:
@@ -305,7 +303,4 @@ ___
 ### Languages
 
 * **Russian** - Native
-* **Ukrainian** - A2
-* **Belorussian** - A2
 * **English** - A2+
-* **Georgian** - Basic
