@@ -285,7 +285,6 @@ Engineer in catering establishments - Bachelor
 * **Webcademy**
 Frontend-Developer Course
 * **RS School**
-* Pre-School 2023
 ___
 
 ### Experience:
