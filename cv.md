@@ -275,3 +275,37 @@ Writing unit tests saves me from a lot of mistakes in the future.
 Having skills in working with graphic editors helps me quickly and efficiently perform web page layout with maximum pixel-perfection.
 
 ___
+
+### Education
+
+* **Krasnodar State Technological University**
+Engineer in catering establishments - Bachelor
+* **Webcademy**
+Frontend-Developer Course
+* **RS School**
+    * Pre-School 2023
+    * Stage1 2023
+
+___
+
+### Experience:
+
+**SkySmart**: Web-Development and Python Teacher
+
+**Achievements**
+* Created user-friendly study materials that help students easily grasp topics in web development and Python.
+* Trained over 200 students, many of whom started working in IT after completing the course.
+
+* Developed practical projects that allow students to gain real experience and build a portfolio.
+
+* Provided individual consultations, helping students better understand the material and develop their skills.
+
+___
+
+### Languages
+
+* **Russian** - Native
+* **Ukrainian** - A2
+* **Belorussian** - A2
+* **English** - A2+
+* **Georgian** - Basic
